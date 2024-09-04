@@ -1,0 +1,10 @@
+.Reference {
+  text-decoration: underline;
+  cursor: pointer;
+  display: inline-block;
+  width: auto;
+}
+
+.solid-renderer > div {
+  display: inline;
+}

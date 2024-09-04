@@ -1,0 +1,15 @@
+.Note {
+  min-width: 25rem;
+  border: 1px solid black;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+}
+
+.Note > div:nth-child(2), .tiptap {
+  height: 100%;
+}
+
+
